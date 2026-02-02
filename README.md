@@ -1,4 +1,4 @@
-# Healthcare AI Agent System
+# Healthcare AI Agent System.
 
 A proof-of-concept AI system designed to support healthcare professionals in patient communication and clinical documentation. The system provides intelligent assistance to adapt communication styles based on patient characteristics and automate routine documentation tasks.
 
